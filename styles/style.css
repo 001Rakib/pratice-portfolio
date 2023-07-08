@@ -64,21 +64,46 @@ body {
     font-weight: 700;
     padding-bottom: 25px;
 }
-.list{
+
+.list {
     /* list-style: none; */
     padding-top: 15px;
     padding: 8px 0px;
 }
-.girl{
+
+.girl {
     margin-right: 100px;
     height: 898px;
 }
-#plan{
+
+#plan {
     text-align: center;
 }
-.my-plan{
+
+.my-plan {
     background: #FFF;
+    padding-left: 230px;
+    padding-right: 230px;
 }
-.icons{
+
+.icons {
     display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.skills,
+h2,
+p {
+    margin: 15px;
+}
+
+.skills p {
+    color: #737272;
+}
+
+.skills h2 {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
 }
