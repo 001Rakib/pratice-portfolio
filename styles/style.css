@@ -107,3 +107,85 @@ p {
     font-size: 30px;
     font-weight: 700;
 }
+
+.photo {
+    margin-top: 135px;
+    margin-bottom: 130px;
+    padding-left: 295px;
+    padding-right: 295px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 8px;
+    height: 300px;
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+}
+
+.photo-title {
+    padding-top: 60px;
+    padding-bottom: 25px;
+    color: #FFF;
+    font-size: 40px;
+}
+
+.sec-des {
+    display: flex;
+    width: 416px;
+}
+
+.future {
+    background: #151414;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 130px;
+    padding-left: 230px;
+    padding-right: 230px;
+    color: #F8F8F8;
+}
+
+#fut {
+    margin-left: 15px;
+}
+
+.left {
+    text-align: left;
+    margin-bottom: 210px;
+}
+
+.right {
+    padding-right: 230px;
+    margin-bottom: 210px;
+}
+
+.eml {
+    padding: 20px 160px 20px 20px;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    background: #151414;
+    color: #F3F3F3;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-left: 15px;
+}
+
+.sub {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.button-sub {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    background: #005FAC;
+    padding: 20px 35px;
+    margin-left: 15px;
+    border: 0px;
+    border-radius: 8px;
+}
+.social{
+    margin-left: 15px;
+}
+.sci{
+    margin-right: 10px;
+}
